@@ -39,6 +39,8 @@
     <script src="<?= base_url('assets/libs/flot/jquery.flot.time.js') ?>"></script>
     <script src="<?= base_url('assets/libs/flot/jquery.flot.stack.js') ?>"></script>
     <script src="<?= base_url('assets/libs/flot/jquery.flot.crosshair.js') ?>"></script>
+    <script src="<?= base_url('assets/libs/magnific-popup/dist/jquery.magnific-popup.min.js') ?>"></script>
+    <script src="<?= base_url('assets/libs/magnific-popup/meg.init.js') ?>"></script>
     <script src="<?= base_url('assets/libs/flot.tooltip/js/jquery.flot.tooltip.min.js') ?>"></script>
     <script src="<?= base_url('dist/js/pages/chart/chart-page-init.js') ?>"></script>
 
